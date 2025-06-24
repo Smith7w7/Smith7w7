@@ -57,9 +57,6 @@
 ## 📫 Contacto
 
 📧 smith_aranda@hotmail.com  
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+💼 [LinkedIn](https://linkedin.com/in/brandon-smith-aranda-tacza)  
 🐙 [GitHub](https://github.com/Smith7w7)
 
----
-
-> *“La calidad no es un acto, es un hábito” – Aristóteles*  
