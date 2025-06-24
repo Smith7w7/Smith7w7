@@ -1,5 +1,10 @@
 ![yuzara-banner](https://github.com/Smith7w7/Smith7w7/blob/main/Portada_linkedin.png?raw=true)
 
+![Profile views](https://komarev.com/ghpvc/?username=Smith7w7&label=Profile%20views&color=blue&style=for-the-badge)
+![Repos](https://img.shields.io/github/followers/Smith7w7?style=social)
+![Commits](https://img.shields.io/github/commit-activity/m/Smith7w7/Smith7w7)
+
+
 # 👋 ¡Hola! Soy Smith
 
 🎯 **QA Manual & Automation Tester**  
