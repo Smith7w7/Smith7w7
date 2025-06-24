@@ -1,3 +1,5 @@
+![yuzara-banner](https://github.com/Smith7w7/Smith7w7/blob/main/Portada_linkedin.png?raw=true)
+
 # 👋 ¡Hola! Soy Smith
 
 🎯 **QA Manual & Automation Tester**  
